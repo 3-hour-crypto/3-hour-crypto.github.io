@@ -40,7 +40,7 @@ There exists a future where Bitcoin is the world's reserve currency, and a few d
 
 There also exists a future where Bitcoin and privacy coins are legislated to the margins of society, and where the Ethereum and smart contracts take decades to get to the valuations they saw during the bubble of 2017/2018. Many decentralized networks faded into obscurity after failing to prove more efficient than centralized incumbents.
 
-[Invest your time instead](https://www.quora.com/Should-I-invest-in-Bitcoin/answer/Darrell-Duane?srid=zrq). Beneath the bubble and hype are some real technological innovations. Learn about the ideas behind cryptocurrencies. Use it to pay for a good or service. Program a smart contract.
+[Invest your time instead](https://www.quora.com/Should-I-invest-in-Bitcoin/answer/Darrell-Duane?srid=zrq). Beneath the bubble and hype are some real technological innovations. Learn about the ideas behind cryptocurrencies. Use it to pay for a good or service. Program a smart contract. Technology can only have value when it is used - so use it before forming an opinions on it as an "investment"!
 
 * * *
 
@@ -52,7 +52,7 @@ Bitcoin was the first major decentralized digital currency, and uses cryptograph
 
 ### What is Bitcoin?
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:15px" src="https://www.youtube-nocookie.com/embed/s4g1XFU8Gto?rel=0&amp;controls=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube-nocookie.com/embed/s4g1XFU8Gto?rel=0&amp;controls=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 To use fiat currency (e.g. USD, JPY, etc) to buy cryptocurrency, you will need a __fiat exchange__.
 
@@ -69,45 +69,45 @@ This guide defaults to buying Bitcoin with a credit/debit card for simplicity.
 As of Dec 2017, there are many exchanges and you should research which one is best for your country for future transactions. A notable option is [LocalBitcoins](https://localbitcoins.com/) where you trade with local bitcoin sellers. We'll leave you to do your own research for future transactions.
 
 ### Setting up Coinbase Account
-<iframe width="560" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/R2Ym5-tjGCs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2Ym5-tjGCs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Your first Bitcoin (15 min)
 
 ### Buying using Coinbase
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/EgK3-Nd_1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/EgK3-Nd_1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Buying using Coinmama
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/0TsdcObv1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/0TsdcObv1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Extra: How Bitcoin Works
 
 ### Bitcoin under the hood
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/t5JGQXCTe3c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/t5JGQXCTe3c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### How does a blockchain work
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Your first Ether (15 min)
 
 Ether is (as of Nov 2017) the second biggest cryptocurrency. Ether is the token of the Ethereum network. It allows developers to build and deploy smart contracts on its blockchain. These can be used to create decentralized applications, which can have profound and powerful impacts on how we structure organizations. Here is a good high-level introduction.
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/ZE2HxTmxfrI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/ZE2HxTmxfrI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Buying Ether with Coinbase
 
 > You'll be buying **$20** of Ethereum. You'll subsequently be using $10 of Ethereum to buy an Altcoin.
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/ULUZDeCSzSE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/ULUZDeCSzSE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Extra: The World Computer
 
 Let's use the next 25 minutes to really understand what you've just bought with your $25.
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/U_LK0t_qaPo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/U_LK0t_qaPo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 * * *
 
@@ -168,11 +168,11 @@ For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exod
 
 ### Installing on Mac
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/AWv8nB48VLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/AWv8nB48VLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Installing on Windows
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/wYk6BdmI-GQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/wYk6BdmI-GQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Transferring Coins
 
@@ -182,7 +182,7 @@ Or, if you're reading sort, this [tutorial from Canadiancrypto](https://canadian
 
 ## Setup Backups (15min)
 
-<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/98xeDpl-TXY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/98xeDpl-TXY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Extra: Security Tips
 
@@ -211,4 +211,4 @@ These are the important things to remember about your cryptocurrencies and your 
 
 This is one of the best videos explaining the concepts behind the blockchain and cryptography.
 
-<iframe width="100%" height="315" style="padding:5px;" src="https://www.youtube.com/embed/bBC-nXj3Ng4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/bBC-nXj3Ng4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
