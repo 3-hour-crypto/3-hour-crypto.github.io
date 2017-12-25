@@ -1,4 +1,4 @@
-# Introduction
+# 3 Hour Crypto
 
 ![Book Cover]({{ "/assets/book_cover_600x315.png" | absolute_url }})
 
@@ -6,7 +6,7 @@ We are two computer scientists (K & D) who have been using cryptocurrencies for 
 
 We've written this guide because friends and family have been talking about cryptocurrencies. There is currently so much bad advice out there now playing to people's greed. We've tried to be objective and cautious.
 
-We're very pragmatic about what people want to learn, but have put in links and explanations that shed some light on the underlying philosophies and technologies behind cryptocurrencies. We hope that these will be the long-term takeaways from this guide.
+We're very pragmatic about what people want to learn. However, we've put in links and explanations that shed some light on the underlying philosophies and technologies behind cryptocurrencies. We hope that these will be the long-term takeaways from this guide.
 
 ### Some Caveats
 
@@ -26,8 +26,9 @@ In 3 hours, you're going to buy your first $10 of Bitcoin, $10 of Ethereum and $
 ### What you'll have after 3 hours
 
 1. **Bitcoin/Ether Exchange**: (e.g. Coinbase) You'll be exchanging $30 here, $10 of Bitcoin and $20 of Ether. We'll learn the major concepts behind these two cryptos, and how they are different.
-3. **Desktop Wallet**: This is where you'll store and keep your cryptocurrency. We'll learn about the  We'll touch on security and how to avoid losing your bitcoin.
-2. **Altcoin Exchange**: (e.g. Bittrex) You'll be sending $10 of your Ether to this exchange, to buy $10 of an Altcoin. We'll learn about the wild, wild west of tokens, and the ideas they represent.
+2. **Desktop Wallet**: This is where you'll store and keep your cryptocurrency. We'll learn about the  We'll touch on security and how to avoid losing your bitcoin.
+3. **[Extra 1 hour] Altcoin Exchange**: (e.g. Bittrex or Binance) You'll be sending $10 of your Ether to this exchange, to buy $10 of an Altcoin. We'll learn about the wild, wild west of tokens, and the ideas they represent.
+4. **Understanding the big ideas**: You'll have a high-level understanding of the technologies behind distributed ledgers, blockchains, and smart contracts.
 
 ## Should I "Invest"?
 
@@ -41,7 +42,7 @@ There also exists a future where Bitcoin and privacy coins are legislated to the
 
 * * *
 
-# 1st hour: $10 of Bitcoin
+# 1st Hour: $10 of Bitcoin
 
 We'll be learning hands-on by buying $10 of bitcoin, and then watching a few videos to understand how Bitcoin works under the hood.
 
@@ -55,11 +56,14 @@ Bitcoin was the first major decentralized digital currency, and uses cryptograph
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:15px" src="https://www.youtube-nocookie.com/embed/s4g1XFU8Gto?rel=0&amp;controls=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Your first Bitcoin (40 min)
+## Your first Bitcoin (30 min)
 
 This guide defaults to buying Bitcoin with a credit card (near-instantaneous) [Coinbase](http://coinbase.com/) (33 countries) or [Coinmama](https://www.coinmama.com/) (any country) to get started quickly.
 
+> As of Dec 2017, opening an exchange account on popular exchanges often takes time, and a lengthy verification process. For experimentation purposes, we can use [Coinmama](https://coinmama.com) and [Buysomebitcoins](https://www.buysomebitcoins.com/), which have little/no verification but high exchange fees
+
 * [Coinbase](#buying-using-coinbase) is the de-facto beginner's exchange but is only available in 33 countries, and people report running into verification problems.
+
 * [Coinmama](#buying-using-coinmama) is available in all countries and has a very loose verification process, but have a bad exchange rate and high fees. [Buysomebitcoins](https://www.buysomebitcoins.com/) is a similar alternative.
 
 As of Dec 2017, there are many exchanges and you should research which one is best for your country for future transactions. A notable option is [LocalBitcoins](https://localbitcoins.com/) where you trade with local bitcoin sellers. We'll leave you to do your own research for future transactions.
@@ -98,13 +102,66 @@ Ether is (as of Nov 2017) the second biggest cryptocurrency. Ether is the token 
 
 ### Buying Ether with Coinbase
 
+> You'll be buying **$20** of Ethereum. You'll subsequently be using $10 of Ethereum to buy an Altcoin.
+
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/ULUZDeCSzSE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Ethereum, the world computer (25 min)
 
+Let's use the next 25 minutes to really understand what you've just bought with your $25.
+
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/U_LK0t_qaPo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-# Setting up your Desktop wallet
+* * *
+
+# 3rd Hour: Desktop Wallet
+
+If you’ve completed the previous steps, the $10 of Bitcoin and $20 of Ether you bought are sitting on what is known as an exchange wallet belonging to Coinbase or Coinmama (or whatever exchange you used).
+
+It tends to be very dangerous to leave your cryptocurrencies on an exchange. Exchanges are often prime targets for hackers (e.g. [120,000 Bitcoins being stolen from Bitfinex](https://en.wikipedia.org/wiki/Bitfinex_hack)). Poorly-run exchanges have also gone down in the past, taking all of customers’ money with them (e.g. [Mt. Gox’s collapse in 2014](https://www.wired.com/2014/03/bitcoin-exchange/)). Even a well-run exchange like Coinbase with extensive security measures is still susceptible to [phishing and impersonation attacks](http://fortune.com/2017/08/22/bitcoin-coinbase-hack/).
+
+## Which desktop wallet? (5 min)
+
+A wallet is like a mini-bank account which you are in full control of. We recommend most beginners start using a **desktop or mobile wallet**. Almost all cryptocurrencies have their own version of a desktop wallet. These wallets store your cryptocurrency’s private keys on your personal computer or mobile device. There is a small risk of loss from malware or crashes. For now, this should be sufficient for your basic cryptocurrency setup.
+
+For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exodus.io/), a pretty, multi-currency desktop wallet that can store both Bitcoin, Ethereum and some Altcoins. As of Dec 2017, there are [many other wallet options available](https://99bitcoins.com/2017s-best-bitcoin-desktop-wallets-4-wallets-reviewed-mac-windows-linux/).
+
+## Installing Exodus (5 min)
+
+### Installing on Mac
+
+<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/AWv8nB48VLI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### Installing on Windows
+
+<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/wYk6BdmI-GQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Transferring your coins to Exodus (10 min)
+
+<iframe src="https://player.vimeo.com/video/235079986?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/235079986">
+
+Or, if you're reading sort, this [tutorial from Canadiancrypto](https://canadiancrypto.io/move-bitcoin-from-coinbase-to-exodus/) covers how to move Bitcoin from Coinbase to Exodus.
+
+## Setting up Backups (10min)
+
+<iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/98xeDpl-TXY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## Hardware Wallet
+
+We've recommended desktop wallets to start you off. Once you start holding more than $5,000, we would recommend you to explore more secure options to hold your cryptocurrency:
+
+* **Hardware Wallets** store your cryptocurrency in a USB-stick like devices which are less exposed to malware. These typically cost money and we would recommend you get them once you hold more than ~$300 of cryptocurrency. We personally use the [Ledger Nano S](https://www.ledgerwallet.com/start/ledger-nano-s).
+
+* **Paper Wallets** are the safest way to keep your cryptocurrency but also the most complicated. We typically do not recommend this unless you have been working with cryptocurrencies for a while. You can find instructions for a [Bitcoin paper wallet](https://www.coindesk.com/information/paper-wallet-tutorial/) over here, and [Ethereum’s paper wallet](https://hackernoon.com/securely-generating-and-storing-an-ethereum-wallet-907bcbd8e5ae) here.
+
+## Key Risks to Remember (5 min)
+
+These are the important things to remember about your cryptocurrencies and your wallets.
+
+* **Desktop/Mobile wallets** are vulnerable to your computer crashing/malware because the private keys are stored only on your computer.
+* **Hardware wallets** are vulnerable to you losing your device, or hardware failure
+* **Paper wallets** are vulnerable to you losing the piece of paper on which your private key is written. Remember, anyone who sees it can take your cryptocurrency!
 
 # Step 3: Altcoin Land
 
