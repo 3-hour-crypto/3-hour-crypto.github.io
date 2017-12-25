@@ -139,7 +139,6 @@ For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exod
 ## Transferring your coins to Exodus (10 min)
 
 <iframe src="https://player.vimeo.com/video/235079986?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/235079986">
 
 Or, if you're reading sort, this [tutorial from Canadiancrypto](https://canadiancrypto.io/move-bitcoin-from-coinbase-to-exodus/) covers how to move Bitcoin from Coinbase to Exodus.
 
