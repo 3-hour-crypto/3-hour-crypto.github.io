@@ -27,7 +27,7 @@ In 3 hours, you're going to buy your first $10 of Bitcoin, $10 of Ethereum and $
 
 1. **Bitcoin/Ether Exchange**: (e.g. Coinbase) You'll be exchanging $30 here, $10 of Bitcoin and $20 of Ether. We'll learn the major concepts behind these two cryptos, and how they are different.
 2. **Desktop Wallet**: This is where you'll store and keep your cryptocurrency. We'll learn about the  We'll touch on security and how to avoid losing your bitcoin.
-3. **[Extra 1 hour] Altcoin Exchange**: (e.g. Bittrex or Binance) You'll be sending $10 of your Ether to this exchange, to buy $10 of an Altcoin. We'll learn about the wild, wild west of tokens, and the ideas they represent.
+3. **Altcoin Exchange**: (e.g. Bittrex or Binance) You'll be sending $10 of your Ether to this exchange, to buy $10 of an Altcoin. We'll learn about the wild, wild west of tokens, and the ideas they represent.
 4. **Understanding the big ideas**: You'll have a high-level understanding of the technologies behind distributed ledgers, blockchains, and smart contracts.
 
 ## Should I "Invest"?
@@ -42,11 +42,7 @@ There also exists a future where Bitcoin and privacy coins are legislated to the
 
 * * *
 
-# 1st Hour: $10 of Bitcoin
-
-We'll be learning hands-on by buying $10 of bitcoin, and then watching a few videos to understand how Bitcoin works under the hood.
-
-## Intro (5 min)
+# 1st Hour: Bitcoin & Ether
 
 Bitcoin was the first major decentralized digital currency, and uses cryptography to maintain a distributed ledger of transactions. The Guardian has a good introduction:
 
@@ -56,7 +52,9 @@ Bitcoin was the first major decentralized digital currency, and uses cryptograph
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:15px" src="https://www.youtube-nocookie.com/embed/s4g1XFU8Gto?rel=0&amp;controls=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Your first Bitcoin (30 min)
+To buy Bitcoin (and Ether), you’ll need to use an exchange to convert your money into cryptocurrency. These exchanges will offer to exchange your fiat currency (e.g. USD) into cryptocurrency at a particular exchange rate. Most exchanges will also charge you an exchange fee (~3%) for making the exchange.
+
+### Recommended exchanges
 
 This guide defaults to buying Bitcoin with a credit card (near-instantaneous) [Coinbase](http://coinbase.com/) (33 countries) or [Coinmama](https://www.coinmama.com/) (any country) to get started quickly.
 
@@ -68,6 +66,8 @@ This guide defaults to buying Bitcoin with a credit card (near-instantaneous) [C
 
 As of Dec 2017, there are many exchanges and you should research which one is best for your country for future transactions. A notable option is [LocalBitcoins](https://localbitcoins.com/) where you trade with local bitcoin sellers. We'll leave you to do your own research for future transactions.
 
+## Your first Bitcoin (30 min)
+
 ### Buying using Coinbase
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/EgK3-Nd_1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -78,7 +78,7 @@ As of Dec 2017, there are many exchanges and you should research which one is be
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/0TsdcObv1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## How Bitcoin Works (15 min)
+### Extra: How Bitcoin Works
 
 ### Bitcoin under the hood (6 min)
 
@@ -88,17 +88,11 @@ As of Dec 2017, there are many exchanges and you should research which one is be
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SSo_EIwHSd4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-* * *
-
-# 2nd Hour: $10 of Ether
+## Your first Ether (30 min)
 
 Ether is (as of Nov 2017) the second biggest cryptocurrency. Ether is the token of the Ethereum network. It allows developers to build and deploy smart contracts on its blockchain. These can be used to create decentralized applications, which can have profound and powerful impacts on how we structure organizations. Here is a good high-level introduction.
 
-## Intro (5 min)
-
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/ZE2HxTmxfrI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-## Your first Ether (10 min)
 
 ### Buying Ether with Coinbase
 
@@ -106,7 +100,7 @@ Ether is (as of Nov 2017) the second biggest cryptocurrency. Ether is the token 
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/ULUZDeCSzSE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Ethereum, the world computer (25 min)
+### Extra: The World Computer
 
 Let's use the next 25 minutes to really understand what you've just bought with your $25.
 
@@ -116,17 +110,15 @@ Let's use the next 25 minutes to really understand what you've just bought with 
 
 # 3rd Hour: Desktop Wallet
 
-If you’ve completed the previous steps, the $10 of Bitcoin and $20 of Ether you bought are sitting on what is known as an exchange wallet belonging to Coinbase or Coinmama (or whatever exchange you used).
+If you’ve completed the previous steps, the $10 of Bitcoin, $10 of Ether and $10 of Dash you bought are sitting on what is known as an exchange wallet belonging to Coinbase or Coinmama (or whatever exchange you used).
 
 It tends to be very dangerous to leave your cryptocurrencies on an exchange. Exchanges are often prime targets for hackers (e.g. [120,000 Bitcoins being stolen from Bitfinex](https://en.wikipedia.org/wiki/Bitfinex_hack)). Poorly-run exchanges have also gone down in the past, taking all of customers’ money with them (e.g. [Mt. Gox’s collapse in 2014](https://www.wired.com/2014/03/bitcoin-exchange/)). Even a well-run exchange like Coinbase with extensive security measures is still susceptible to [phishing and impersonation attacks](http://fortune.com/2017/08/22/bitcoin-coinbase-hack/).
 
-## Which desktop wallet? (5 min)
+## Setting up Exodus (45min)
 
 A wallet is like a mini-bank account which you are in full control of. We recommend most beginners start using a **desktop or mobile wallet**. Almost all cryptocurrencies have their own version of a desktop wallet. These wallets store your cryptocurrency’s private keys on your personal computer or mobile device. There is a small risk of loss from malware or crashes. For now, this should be sufficient for your basic cryptocurrency setup.
 
 For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exodus.io/), a pretty, multi-currency desktop wallet that can store both Bitcoin, Ethereum and some Altcoins. As of Dec 2017, there are [many other wallet options available](https://99bitcoins.com/2017s-best-bitcoin-desktop-wallets-4-wallets-reviewed-mac-windows-linux/).
-
-## Installing Exodus (5 min)
 
 ### Installing on Mac
 
@@ -136,17 +128,17 @@ For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exod
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/wYk6BdmI-GQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Transferring your coins to Exodus (10 min)
+### Transferring Coins
 
 <iframe src="https://player.vimeo.com/video/235079986?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Or, if you're reading sort, this [tutorial from Canadiancrypto](https://canadiancrypto.io/move-bitcoin-from-coinbase-to-exodus/) covers how to move Bitcoin from Coinbase to Exodus.
 
-## Setting up Backups (10min)
+## Setup Backups (15min)
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/98xeDpl-TXY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Hardware Wallet
+## Extra: Security Tips
 
 We've recommended desktop wallets to start you off. Once you start holding more than $5,000, we would recommend you to explore more secure options to hold your cryptocurrency:
 
@@ -154,7 +146,7 @@ We've recommended desktop wallets to start you off. Once you start holding more 
 
 * **Paper Wallets** are the safest way to keep your cryptocurrency but also the most complicated. We typically do not recommend this unless you have been working with cryptocurrencies for a while. You can find instructions for a [Bitcoin paper wallet](https://www.coindesk.com/information/paper-wallet-tutorial/) over here, and [Ethereum’s paper wallet](https://hackernoon.com/securely-generating-and-storing-an-ethereum-wallet-907bcbd8e5ae) here.
 
-## Key Risks to Remember (5 min)
+### Key Risks to Remember (5 min)
 
 These are the important things to remember about your cryptocurrencies and your wallets.
 
@@ -162,22 +154,15 @@ These are the important things to remember about your cryptocurrencies and your 
 * **Hardware wallets** are vulnerable to you losing your device, or hardware failure
 * **Paper wallets** are vulnerable to you losing the piece of paper on which your private key is written. Remember, anyone who sees it can take your cryptocurrency!
 
-# Step 3: Altcoin Land
+# Additional Resources
 
-
-
-# Step 4: The Philosophy
-
-### The Promise of the blockchain
+## The Promise of the Blockchain
 
 <iframe src="https://player.vimeo.com/video/161183966?color=ff0179&byline=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/161183966">Vinay Gupta at Michel Bauwens &amp; the Promise of the Blockchain</a> from <a href="https://vimeo.com/fiberfestival">FIBER</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-### Decentralization
+## Decentralization
 
 This is one of the best videos explaining the concepts behind the blockchain and cryptography.
 
 <iframe width="100%" height="315" style="padding:5px;" src="https://www.youtube.com/embed/bBC-nXj3Ng4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-### Ethereum, the World Computer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_LK0t_qaPo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
