@@ -34,11 +34,11 @@ In 3 hours, you're going to buy your first $10 of Bitcoin, $10 of Ethereum and $
 
 `We cannot advise you on this.` There's been a lot of hype and doom around cryptocurrencies. The honest truth is that cryptocurrencies are just another societal experiment in the long arc of humanity. History is filled with examples of experiments like this. Some are wildly successful and redefine how the world works. Others pale away after the initial hype, fading into the ash heap of history.
 
-There exists a future where Bitcoin is the world's reserve currency, and a few dominant smart contract platforms (Ethereum, Stellar, Cardano etc) power everyday business interactions. Tokens now power decentralized networks help coordinate our society efficiently.
+There exists a future where Bitcoin is the world's reserve currency, and a few dominant smart contract platforms (Ethereum, Stellar, Cardano etc) are utilized for everyday business interactions. Tokens power efficient decentralized networks that coordinate essential services.
 
-There also exists a future where Bitcoin and privacy coins are legislated to the margins of society, and where the Ethereum and smart contracts take decades to get to the valuations they saw during the bubble of 2017/2018. Many tokens' decentralized networks failed to prove
+There also exists a future where Bitcoin and privacy coins are legislated to the margins of society, and where the Ethereum and smart contracts take decades to get to the valuations they saw during the bubble of 2017/2018. Many tokens' decentralized networks fail to prove
 
-[Invest your time instead](https://www.quora.com/Should-I-invest-in-Bitcoin/answer/Darrell-Duane?srid=zrq). Beneath the bubble and hype are some real technological innovations. Learn about the ideas behind cryptocurrencies. Use it to pay for a good or service. Program a smart contract. Technology is only worth the
+[Invest your time instead](https://www.quora.com/Should-I-invest-in-Bitcoin/answer/Darrell-Duane?srid=zrq). Beneath the bubble and hype are some real technological innovations. Learn about the ideas behind cryptocurrencies. Use it to pay for a good or service. Program a smart contract.
 
 * * *
 
@@ -110,7 +110,7 @@ Let's use the next 25 minutes to really understand what you've just bought with 
 * * *
 
 
-# 2nd Hour: $10 of Altcoin
+# 2nd Hour: Altcoin Land
 
 “Altcoins” are commonly used to describe cryptocurrencies that aren’t Bitcoin or Ether. Better known Altcoins include Monero, Stellar and Civic. This is the wild west of cryptocurrencies, where new coins are being listed every day. It is the wild, wild west.
 
@@ -136,7 +136,7 @@ Note, it is not necessary to do the enhanced verification if you plan to leave t
 * Once you follow all the steps on Bittrex, deposit the $10 worth of Ether to your Bittrex account following this step-by-step guide
 https://support.bittrex.com/hc/en-us/articles/115000199631-How-do-I-deposit-coins-to-Bittrex-
 
-## Buying $10 of Altcoin
+## Your first Altcoin (30min)
 
 * Go to the relevant Bittrex market page. (e.g., to exchange ether (ETH) for DASH, it is https://bittrex.com/Market/Index?MarketName=ETH-DASH)
 
