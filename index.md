@@ -25,6 +25,8 @@ In 3 hours, you're going to buy your first $10 of Bitcoin, $10 of Ethereum and $
 
 ### What you'll have after 3 hours
 
+![Book Cover]({{ "/assets/3_hour_process.png" | absolute_url }})
+
 1. **Bitcoin/Ether Exchange**: (e.g. Coinbase) You'll be exchanging $30 here, $10 of Bitcoin and $20 of Ether. We'll learn the major concepts behind these two cryptos, and how they are different.
 2. **Desktop Wallet**: This is where you'll store and keep your cryptocurrency. We'll learn about the  We'll touch on security and how to avoid losing your bitcoin.
 3. **Altcoin Exchange**: (e.g. Bittrex or Binance) You'll be sending $10 of your Ether to this exchange, to buy $10 of an Altcoin. We'll learn about the wild, wild west of tokens, and the ideas they represent.
@@ -36,7 +38,7 @@ In 3 hours, you're going to buy your first $10 of Bitcoin, $10 of Ethereum and $
 
 There exists a future where Bitcoin is the world's reserve currency, and a few dominant smart contract platforms (Ethereum, Stellar, Cardano etc) are utilized for everyday business interactions. Tokens power efficient decentralized networks that coordinate essential services.
 
-There also exists a future where Bitcoin and privacy coins are legislated to the margins of society, and where the Ethereum and smart contracts take decades to get to the valuations they saw during the bubble of 2017/2018. Many tokens' decentralized networks fail to prove
+There also exists a future where Bitcoin and privacy coins are legislated to the margins of society, and where the Ethereum and smart contracts take decades to get to the valuations they saw during the bubble of 2017/2018. Many decentralized networks faded into obscurity after failing to prove more efficient than centralized incumbents.
 
 [Invest your time instead](https://www.quora.com/Should-I-invest-in-Bitcoin/answer/Darrell-Duane?srid=zrq). Beneath the bubble and hype are some real technological innovations. Learn about the ideas behind cryptocurrencies. Use it to pay for a good or service. Program a smart contract.
 
