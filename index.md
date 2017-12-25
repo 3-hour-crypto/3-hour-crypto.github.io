@@ -182,7 +182,7 @@ Or, if you're reading sort, this [tutorial from Canadiancrypto](https://canadian
 
 <iframe width="100%" height="315" style="padding:5px; margin-bottom:10px" src="https://www.youtube.com/embed/98xeDpl-TXY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Extra: Security Tips
+### Extra: Security Tips
 
 We've recommended desktop wallets to start you off. Once you start holding more than $5,000, we would recommend you to explore more secure options to hold your cryptocurrency:
 
@@ -198,14 +198,14 @@ These are the important things to remember about your cryptocurrencies and your 
 * **Hardware wallets** are vulnerable to you losing your device, or hardware failure
 * **Paper wallets** are vulnerable to you losing the piece of paper on which your private key is written. Remember, anyone who sees it can take your cryptocurrency!
 
-# Learn More
+# Epilogue
 
-## The Promise of the Blockchain
+### Learn More
 
 <iframe src="https://player.vimeo.com/video/161183966?color=ff0179&byline=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/161183966">Vinay Gupta at Michel Bauwens &amp; the Promise of the Blockchain</a> from <a href="https://vimeo.com/fiberfestival">FIBER</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## Decentralization
+### Decentralization
 
 This is one of the best videos explaining the concepts behind the blockchain and cryptography.
 
