@@ -132,6 +132,8 @@ _List of exchanges that Dash trades on_
 
 _(In Progress)_
 
+* * *
+
 ## Option 1: Bittrex
 
 ### Registration and Depositing $10 of Ether
@@ -161,6 +163,8 @@ Then click the blue button at the bottom of the box Buy Dash to execute.
 
 Occasionally, your order will not go through, if Dash is increasing in price quite fast. Lower down on the screen, There will be an OPEN ORDERS tab. There will be a red X button all the way on the right. Click that red X button to cancel the order, and follow the process above again, to offer a higher Dash price so that sellers will be willing to sell.
 
+* * *
+
 ## Option 2: Binance
 
 _(In progress)_
@@ -188,6 +192,8 @@ For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exod
 <iframe class="youtube" height="315" src="https://www.youtube.com/embed/wYk6BdmI-GQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Transferring Coins (30min)
+
+_(In Progress)_
 
 <iframe src="https://player.vimeo.com/video/235079986?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
