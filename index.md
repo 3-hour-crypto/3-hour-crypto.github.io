@@ -1,4 +1,4 @@
-# 3 Hour Crypto
+# The 3 Hour Crypto Setup
 
 ![Book Cover]({{ "/assets/book_cover_600x315.png" | absolute_url }})
 
@@ -58,23 +58,36 @@ To use fiat currency (e.g. USD, JPY, etc) to buy cryptocurrency, you will need a
 
 ## Setup Fiat Exchange (30min)
 
-This guide defaults to buying Bitcoin with a credit/debit card for simplicity.
+As of Dec 2017, there are many exchanges and you should research which one is best for your country for future transactions.
 
-* [Coinbase](#buying-using-coinbase) is the de-facto beginner's exchange but is only available in 33 countries, and people report running into verification problems.
-* [Coinmama](#buying-using-coinmama) has no country restrictions and minimal checks, but has expensive exchange rate and high fees. [Buysomebitcoins](https://www.buysomebitcoins.com/) is similar.
+* **US Residents**: [Coinbase](#buying-using-coinbase) is the de-facto beginner's exchange. However it is only available in 33 countries, and verification sometimes takes a long time.
+* **Non-US Residents**: Use [BuyBitcoinsWorldwide](https://www.buybitcoinworldwide.com/) to find an exchange in your country.
 
-As of Dec 2017, there are many exchanges and you should research which one is best for your country for future transactions. A notable option is [LocalBitcoins](https://localbitcoins.com/) where you trade with local bitcoin sellers. We'll leave you to do your own research for future transactions.
+As of Dec 2017, many exchanges require verification which can take up to days or weeks. For those who just want to start ASAP, we recommend the following exchanges with minimal verification:
 
-### Setting up Coinbase Account
-<iframe class="youtube" height="315" src="https://www.youtube.com/embed/R2Ym5-tjGCs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+* [Coinmama](#buying-using-coinmama) has no country restrictions and minimal verification checks, but has expensive exchange rate and high fees.
+* [Buysomebitcoins](https://www.buysomebitcoins.com/) is similar.
+
+The fastest way to buy cryptocurrencies is with a credit/debit card, which is what we'll use in this guide. If you don't have a credit card, there are the following options:
+
+* **Bank Transfers**, which have lower fees but take 2-3 days (or more) to go through.
+* [LocalBitcoins](https://localbitcoins.com/) where you trade with local bitcoin sellers in cash.
+* [Paxful](https://paxful.com/) is an interesting alternative where you can buy using alternative payment methods like Western Union, Paypal, or trading in Amazon Gift Cards.
 
 ## Your first Bitcoin (15 min)
 
-### Buying using Coinbase
+
+We've identified two good video tutorials. You can typically search on Youtube to find walkthroughs for whichever exchange you are using.
+* [Buying using Coinbase](#option-1-buying-using-coinbase)
+* [Buying using Coinmama](#option-2-buying-using-coinmama)
+
+### Option 1: Buying using Coinbase
+
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/R2Ym5-tjGCs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <iframe class="youtube" height="315" src="https://www.youtube.com/embed/EgK3-Nd_1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-### Buying using Coinmama
+### Option 2: Buying using Coinmama
 
 <iframe class="youtube" height="315" src="https://www.youtube.com/embed/0TsdcObv1No" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -115,13 +128,13 @@ Let's use the next 25 minutes to really understand what you've just bought with 
 
 Most Altcoins aren't listed on the major fiat exchanges. In fact, most are listed on Altcoin exchanges like [Bittrex](http://bittrex.com/), [Binance](https://www.binance.com/), and decentralized exchanges like [Etherdelta](https://etherdelta.com/). These exchanges don't accept credit cards or fiat currencies - they exchange Bitcoin/Ether for Altcoin at given BTC/ALT exchange rates.
 
-For this guide, we'll be exchanging $10 of the Ether that you bought earlier for $10 of an Altcoin. For the purposes of demonstration, this guide has [Dash](https://www.dash.org/) or [Monero](https://getmonero.org/) as examples.
+For this guide, we'll be exchanging $10 of the Ether that you bought earlier for $10 of an Altcoin. Some popular altcoins people buy using this guide include [Ripple](https://ripple.com/), [IOTA](https://iota.org/), [Dash](https://www.dash.org/) and  [Monero](https://getmonero.org/).
 
 ### Choosing an Exchange
 
-__(Caution [Dec 2017]: We would caution you against using [Bitfinex](https://www.bitfinex.com/) due to concerns about money withdrawal. We advise you to form your own opinion after researching this more online.)__
+> **Caution [Dec 2017]**: We would caution you against using [Bitfinex](https://www.bitfinex.com/) due to concerns about money withdrawal. We advise you to form your own opinion after researching this more online.
 
-Given the explosion of Altcoins over the past few months, there is no one-stop shop for every Altcoin. The more established Altcoins trade on bigger exchanges like Binance and Bittrex, while newer coins trade on smaller or less established exchanges. It's a cowboy town in many of these new exchanges and caution and a healthy amount of googling is advised.
+Given the explosion of Altcoins over the past few months, there is no one-stop shop for every Altcoin. Many of the 1382 coins have just been launched in the last few months, and are in the process of being added to exchanges. The more established Altcoins (e.g. [Ripple](https://ripple.com/), [IOTA](https://iota.org/)) trade on bigger exchanges like [Binance](https://www.binance.com/) and [Bittrex](http://bittrex.com/), while newer coins trade on smaller or less established exchanges like [Cryptopia](https://www.cryptopia.co.nz/). It's a cowboy town in many of these new exchanges and caution and a healthy amount of googling is advised.
 
 If you are interested in trading a specific Altcoin, you can use [Coinmarketcap](https://coinmarketcap.com/) to find out which exchanges it trades on. By looking at the ["Markets" tab](https://coinmarketcap.com/currencies/monero/#markets) of a particular cryptocurrency, you can see the exchanges on which it trades on.
 
@@ -130,11 +143,47 @@ _List of exchanges that Dash trades on_
 
 ### Types of Altcoins
 
-_(In Progress)_
+__(In progress)__
 
-## Option 1: Bittrex
+* * *
+
+## Option 2: Binance
+
+In recent weeks, [Binance](https://binance.com) has become a popular exchange with significant volume and coin availability. One of its innovations is its own coin (BNB) that gives you 50% off trading fees. It also allows you to start trading ASAP as it doesn't require identity documents until you hit $30,000.
 
 ### Registration and Depositing $10 of Ether
+
+We'll be transferring $10 of the Ether you got at Coinbase/Coinmama to Bittrex to buy some Altcoin.
+
+> **Key Note**: DO NOT TRANSFER YOUR $10 OF BITCOIN. As of Dec 2017 Bitcoin transaction fees have hit ~$30, even for a $0.1 transfer. It will likely stay that way for a few months as their developer community figures out scaling issues. Do not transfer your bitcoin because they will be wiped out by the fees!
+
+**Start by following these steps on Binance**
+
+1. Go to the `Deposits & Withdrawals` section in `Funds`
+2. Search for your "ETH" wallet in the wallet list. **MAKE SURE IT IS THE 'ETH' WALLET** as you don't want to send your funds to the wrong address!
+3. Click on `Deposit`. You will see your Binance ETH Wallet's address, which you will be depositing funds to. Copy this address.
+
+**Then, go to Coinbase**
+
+1. Go to `Accounts` and select your ETH wallet.
+2. Click `Send`. Paste your Binance ETH Wallet's address which you copied earlier into this field.
+> **ALWAYS** make sure to double check that the wallet address that you copied and pasted is the same! Leaving out even 1 character would result in your funds being sent incorrectly and possibly lost forever.
+
+### Buying $10 of Altcoin on Binance
+
+This video gives a good overview of how to use the Binance exchange.
+
+<iframe class="youtube" height="315" src="https://www.youtube.com/embed/1W_V3mSZaA4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+* * *
+
+## Option 2: Bittrex
+
+### Registration and Depositing $10 of Ether
+
+We'll be transferring $10 of the Ether you got at Coinbase/Coinmama to Bittrex to buy some Altcoin.
+
+> **Key Note**: DO NOT TRANSFER YOUR $10 OF BITCOIN. As of Dec 2017 Bitcoin transaction fees have hit ~$30, and will likely stay that way for a few months as their developer community figures out scaling issues. Do not transfer your bitcoin because they will be wiped out by the fees!
 
 You should follow Bittrex's official guides at the links below. For those who prefer watching videos, we've found a few and embedded them below.
 
@@ -145,25 +194,19 @@ You should follow Bittrex's official guides at the links below. For those who pr
 
 <iframe class="youtube" height="315" src="https://www.youtube.com/embed/ND7aMSzQDGI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-### Buying $10 of Dash on Bittrex
+### Buying $10 of Altcoin on Bittrex
 
-_(In progress)_
+For this section, we will be using [Dash](https://www.dash.org/) as an example. You can replace this with any Altcoin that you like (e.g. [Ripple](https://ripple.com/), [Monero](https://getmonero.org/) etc).
 
-* Go to the relevant Bittrex market page. (e.g., to exchange ether (ETH) for DASH, it is https://bittrex.com/Market/Index?MarketName=ETH-DASH)
+1. Go to the relevant Bittrex market page. For this example, this is the [ETH/DASH page](https://bittrex.com/Market/Index?MarketName=ETH-DASH).
+1. The `Last Price` shows the last transacted price of one Dash per Ether. At the time of writing 1 Dash buys 1.668 Ether.
+2. Go to the `Buy Dash` tab.
+3. Under `Bid`, you will see a blue Dropdown button called Price. Click on it and choose the option `Ask`.
+> What you are doing here, in plain-speak, is offering to pay what the cheapest seller of Dash is offering in Ether terms. In finance-speak, you are crossing the spread.
+4. Click `Max`. This will buy the maximum Dash you can with your deposited Ether!
+5. Then click the blue button at the bottom of the box Buy Dash to execute.
 
-You should see something like this:
-* The Last Price shows the price of one Dash per Ether. At the time of writing 1 Dash buys 1.668 Ether.
-Go to the Buy Dash tab.
-* Under Bid, you will see a blue Dropdown button called Price. Click on it and choose the option Ask.
-What you are doing here, in plain-speak, is offering to pay what the cheapest seller of Dash is offering in Ether terms. In finance-speak, you are crossing the spread.
-* Click Max. This will buy the maximum Dash you can with your deposited Ether!
-Then click the blue button at the bottom of the box Buy Dash to execute.
-
-Occasionally, your order will not go through, if Dash is increasing in price quite fast. Lower down on the screen, There will be an OPEN ORDERS tab. There will be a red X button all the way on the right. Click that red X button to cancel the order, and follow the process above again, to offer a higher Dash price so that sellers will be willing to sell.
-
-## Option 2: Binance
-
-_(In progress)_
+> **Key Tip**: Occasionally, your order will not go through, especially if Dash is increasing in price quite fast. Lower down on the screen, there will be an `OPEN ORDERS` tab. There will be a red X button all the way on the right. Click that red X button to cancel the order, and follow the process above again, to offer a higher Dash price so that sellers will be willing to sell.
 
 * * *
 
@@ -189,9 +232,17 @@ For this walkthrough, we’ll be guiding you to set up [Exodus](https://www.exod
 
 ## Transferring Coins (30min)
 
+> **Key Note**: As of Dec 2017, Bitcoin transaction fees have hit ~$30, and will likely stay that way for a few months as their developer community figures out scaling issues. Do not transfer your bitcoin because they will be wiped out by the fees! You can use [Coinbase's Vault](https://www.coinbase.com/vault) to safekeep your $10 of Bitcoin.
+
+We'll be transferring your coins from Coinbase and Bittrex to your Exodus wallet. We'll start with the $10 in Ether that you still have on Coinbase.
+
+### Transferring from Coinbase
+
 <iframe src="https://player.vimeo.com/video/235079986?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Or, if you're reading sort, this [tutorial from Canadiancrypto](https://canadiancrypto.io/move-bitcoin-from-coinbase-to-exodus/) covers how to move Bitcoin from Coinbase to Exodus.
+
+### Transferring from Bittrex
 
 ## Setup Backups (15min)
 
